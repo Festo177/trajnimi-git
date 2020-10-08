@@ -3,3 +3,5 @@ test
 Test
 
 Modofikim direkt nga GitHub
+
+Modofikim prej kompjuterit lokal
